@@ -2,6 +2,8 @@
 
 > "Building cool stuff & spreading good vibes ✨"
 
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=2F81F7&center=false&vCenter=false&width=500&lines=Mobile+%26+Web+Developer;.NET+%26+React+Enthusiast;Coffee+%3D+Code+%E2%98%95;Always+learning+new+things" alt="Typing Animation" />
+
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/hoangphn211) 
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:phan21828@gmail.com)
