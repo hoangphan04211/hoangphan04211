@@ -4,7 +4,6 @@
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/hoangphn211) 
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:phan21828@gmail.com)
 [![Website](https://img.shields.io/badge/Website-hoangphan.info.vn-blue?style=flat&logo=google-chrome&logoColor=white)](https://hoangphan.info.vn)
 
 # 💻 Tech Stack:
